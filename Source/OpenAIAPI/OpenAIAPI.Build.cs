@@ -1,4 +1,4 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
+// Copyright Epic Games, Inc. All Rights Reserved by TechLab Dr.Snail LLC.
 
 using UnrealBuildTool;
 
