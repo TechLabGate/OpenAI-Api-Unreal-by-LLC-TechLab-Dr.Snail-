@@ -1,4 +1,4 @@
-// Copyright TechLab Dr.Snail LLC. 2022. All rights Reserved.
+// Copyright TechLab Dr.Snail LLC. 2023. All rights Reserved.
 
 #pragma once
 
